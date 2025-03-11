@@ -1,3 +1,8 @@
+/**
+*   qustion : 3264. Final Array State After K Multiplication Operations
+*/
+
+
 import java.util.*;
 
 public class FinalArray{
