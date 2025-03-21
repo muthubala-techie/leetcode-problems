@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class MaxAchive{
+public class ConvertTemp{
     public static void main(String[] args){
         System.out.print(Arrays.toString(convertTemperature(36.50)));
     }
