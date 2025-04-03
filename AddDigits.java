@@ -1,3 +1,7 @@
+/**
+*   question : 58. Add Digits
+*/
+
 public class AddDigits{
     public static void main(String[] args){
         System.out.print(addDigits(38));
